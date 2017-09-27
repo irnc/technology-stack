@@ -1,0 +1,1 @@
+- Hadoop (https://eng.uber.com/tech-stack-part-one/)

@@ -1,0 +1,2 @@
+- replaced by
+  - Cassandra (at Uber https://eng.uber.com/tech-stack-part-one/)

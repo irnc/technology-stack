@@ -1,0 +1,3 @@
+- Kafka at Uber
+  - http://events.linuxfoundation.org/sites/events/files/slides/Ankur%20Bansal.pdf
+  - data archived to Hadoop before it expires from Kafka
